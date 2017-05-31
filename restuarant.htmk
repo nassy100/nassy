@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<title>A taste of Jamaica</title>
+<div class="info">
+  <table align="center">
+    <th>Home</th>
+    <th>Menu</th>
+    <th>Location</th>
+    <th>Contact Us </th>
+  </table>
+</div>
+<ul>
+  <li><a href="/index.html">Home</a></li>
+  <li> <a href="/menu.html">Menu</a></li>
+  <li><a href="/contact Us.html">Contact Us</a></li>
+  <li><a href="/location.html"> Location</a></li>
+</ul>
+<h1>
+A taste of JA<br/>
+ Dis is de Real Jamdown  <br/>
+</h1>
+
+<body>
+ <p>
+    Hey this is were you come to gat a taste of what jamaicans eat on speacial event and just daily.
+    <br/>The cultural food is going to be cook and perpared with loved and
+    <br/> respect for your religion thank you for coming and sharing with us.
+  </p>
+
+  <div class="menu bar">
+    <p>
+      Menu </p>
+  </div>
+  <div class="image">
+    <p>
+      National dish Ackee and Saltfish W/h green banana and
+    </p>
+    <img src="http://www.seriouseats.com/images/2012/12/20121224-ackee-plate.JPG">
+  </div>
+  <div class="rice and peas">
+    <p>
+      Rice and Peas Meal
+    </p>
+    <img src="http://farm4.static.flickr.com/3187/2963004080_9e7fda9818.jpg">
+  </div>
+  <div class="breadfruit">
+    <p>
+      Fried Breadfruit w/ Ackee,green banana and dumpling
+    </p>
+    <img src="http://www.seriouseats.com/images/2012/12/20121224-ackee-plate.JPG">
+  </div>
+  <table align="center">
+    <th>Soups</th>
+  </table>
+  <div class="red peas soup">
+    <p>
+      Red peas soup
+    </p>
+    <img src="http://caribbeanpot.com/wp-content/uploads/2016/11/jamaican-red-peas-soup-12.jpg">
+  </div>
+  <div>
+    <p>
+      Chicken foot soup
+    </p>
+    <img src="https://tastetheislandstv.com/wp-content/uploads/2016/11/Chicken-Foot-Soup-instagram-monie_skin_care.jpg">
+  </div>
+  <div class="cow soup">
+    <p>
+      Cow feet Soup
+    </p>
+    <img src="https://ambergriscaye.com/art2/DSCN3319.jpg">
+  </div>
+  <table align="center">
+    <th>Desserts</th>
+  </table>
+  <div class="dessert">
+    <p>
+      Black Rum cake
+    </p>
+    <img src="http://womanandhome.media.ipcdigital.co.uk/21348/00000a45f/ccf6_orh2000w570/jamaican-christmas-cake.jpg">
+  </div>
+  <div class="cc">
+    <p>
+      Carrot Cake
+    </p>
+    <img src="https://lh4.ggpht.com/9YlaVFhKVJ7Zqy-SFb-q_Brwp-S7rqKwxk3dcVGRQqWFlui0ptVe9vliG9H8GYPJIgv-xHoT8K7KlkCrwMO_HomLuxk9=s535-c">
+  </div>
+  <div class="coconut">
+    <p>
+      Coconut Drops
+    </p>
+    <img src="https://i.ytimg.com/vi/LE0FSedBh20/hqdefault.jpg">
+  </div>
+  <div class="greatercake">
+    <p>
+      Greater Cake
+    </p>
+    <img src="https://thegreatercake.files.wordpress.com/2015/04/gratercake_0.jpg">
+  </div>
+  <div class="patties">
+    <p>
+      Jamaican Patty
+    </p>
+    <img src="http://cook.fnr.sndimg.com/content/dam/images/cook/fullset/2016/2/18/0/CCRUN0304H_beef-patties_s4x3.jpg.rend.hgtvcom.616.462.jpeg">
+  </div>
+
+
+  <div class=" Contact Us ">
+    <p>
+      Contact Us
+    </p>
+    <p>
+      Telephone Number:(604)961-2577 Email:Amanada65d@gmail.com/vamanad96@yaho.com
+    </p>
+  </div>
+  <div>
+    <p>
+      Location
+    </p>
+    <p>
+      24a ave 145b Street Surrey Bc Canada Zip code 1q3w8j
+    </p>
+  </div>
+</body>
