@@ -40,4 +40,6 @@
             align: center;
             color: #FFD700;
                  
-
+img { 
+   display: block; margin: auto; width: 40%;
+   }
